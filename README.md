@@ -1,0 +1,3 @@
+# loghub-bootstrap
+
+LogHub Bootstrap
